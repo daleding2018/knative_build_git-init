@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/webhook@sha256:7196a38aaf11ed6426db7c40a771e4f2a27d987606b5773b2d05bb9676908e7d
+FROM gcr.io/knative-releases/github.com/knative/build/cmd/creds-init@sha256:a47ea977bef1889c4b29d8dd5c28af923c40a61c12e823d1da6ff0cbeeb41d6d
